@@ -58,3 +58,4 @@ A high-end audio speaker, with a GaN based class-D amplifier controlled by an FP
 - [![Website](https://img.shields.io/badge/Website-home--hardware.app-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://www.home-hardware.app/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Léonard_Heywang-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heywang-l%C3%A9onard-b0b830226/)
 - [![ProtonMail](https://img.shields.io/badge/Mail-leonard.heywang%40proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:leonard.heywang@proton.me)
+- [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/R9HNVnBs6s)
