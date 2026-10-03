@@ -27,8 +27,8 @@ A high-end audio speaker, with a GaN based class-D amplifier controlled by an FP
 - **Simulation** : NGSpice, QSpice, LTSpice, Simker (my own mixed sim docker image)
 
 ### Languages
-- [SystemVerilog](https://img.shields.io/badge/SystemVerilog-185F9E?style=flat)
-- [VHDL](https://img.shields.io/badge/VHDL-5B9846?style=flat)
+- ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-185F9E?style=flat)
+- ![VHDL](https://img.shields.io/badge/VHDL-5B9846?style=flat)
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
